@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429171653873",
+    "project_id": "sportswander-e72a3",
+    "storage_bucket": "sportswander-e72a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429171653873:android:a54b40e80ce19d18d97d50",
+        "android_client_info": {
+          "package_name": "com.example.sportswander"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mCUhVBF9f6r8R5qjWqlYF9KF9A0vlsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
